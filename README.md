@@ -1,4 +1,4 @@
-Hi, my name is Giovanni Cerlisio and i am a web developer.
+Hi, my name is Giovanni Cerlisio and i am junior a web developer.
 
 **Skills:**
 
