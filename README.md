@@ -8,6 +8,8 @@ Hi, my name is Giovanni Cerlisio and i am junior a web developer.
 ![php](https://user-images.githubusercontent.com/110239117/181767112-3ed56dd6-d052-47be-ad3a-8fc3ecff658e.png)
 ![javagit](https://user-images.githubusercontent.com/110239117/189434156-43af6b2d-022d-4c91-be75-430e7023878f.png)
 ![springgit](https://user-images.githubusercontent.com/110239117/189434304-35a42bea-b204-46b7-af0b-e22fac3c208d.png)
+![mysqlgit](https://user-images.githubusercontent.com/110239117/189434811-91baa507-cf7b-4acd-87da-f160dcb915d3.png)
+
 
 ```diff
 - Attenzione
