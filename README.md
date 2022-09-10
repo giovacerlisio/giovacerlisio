@@ -1,7 +1,7 @@
 Hi! My name is Giovanni Cerlisio
 =========================================================================================================================================
 
-JR Web Developer
+JR Web Developer 👨🏻‍💻
 ----------------
 
 Dopo essermi diplomato in informatica e telecomunicazioni, ho iniziato subito a sviluppare siti web da autodidatta e attualmente seguo un corso di formazione per sviluppo backend in spring
