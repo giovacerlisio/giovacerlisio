@@ -29,4 +29,6 @@ Socials
 <p align="left"> <a href="https://www.github.com/giovacerlisio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/giovanni-cerlisio-109727227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cerlisiogiova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 Badges
 
+<a href="http://www.github.com/giovacerlisio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=giovacerlisio&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/giovacerlisio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovacerlisio&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
