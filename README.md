@@ -9,7 +9,7 @@ Dopo essermi diplomato in informatica e telecomunicazioni, ho iniziato subito a 
 * 🌍  I'm based in Naples | IT
 * 🖥️  See my portfolio at [giovannicerlisio.it](http://www.giovannicerlisio.it)
 * ✉️  You can contact me at [giovannicerlisio31@gmail.com](mailto:giovannicerlisio31@gmail.com)
-* 🧠  I'm learning Spring 🍃 and JS
+* 🧠  I'm learning Spring 🍃 - Javacsript and Software Testing
 
 Skills
 
