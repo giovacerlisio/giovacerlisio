@@ -4,12 +4,14 @@ Hi! My name is Giovanni Cerlisio
 Junior Software Tester | Beginner Full Stack Developer 👨🏻‍💻 
 ----------------
 
-Dopo essermi diplomato in informatica e telecomunicazioni, ho iniziato subito a sviluppare siti web da autodidatta, poi ho seguito un corso di sviluppo back-end con Spring ma attualmente svolgo la professione di Junior Software Tester.
+Dopo essermi diplomato in informatica e telecomunicazioni, ho iniziato subito a sviluppare siti web da autodidatta, poi ho seguito un corso di sviluppo back-end con Spring.
+
+Attualmente svolgo la professione di Junior Software Tester.
 
 * 🌍  I'm based in Naples | IT
 * 🖥️  See my portfolio at [giovannicerlisio.it](http://www.giovannicerlisio.it)
 * ✉️  You can contact me at [giovannicerlisio31@gmail.com](mailto:giovannicerlisio31@gmail.com)
-* 🧠  I'm learning Spring 🍃 - Javascript and Software Testing
+* 🧠  I'm learning Spring 🍃 - Angular and Software Testing
 
 Skills
 
@@ -22,7 +24,8 @@ Skills
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" width="36" height="36" alt="Selenium" /></a>
-
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
+  
 Socials
 
 <p align="left"> <a href="https://www.github.com/giovacerlisio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/giovanni-cerlisio-109727227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cerlisiogiova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
