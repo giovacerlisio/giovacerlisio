@@ -4,14 +4,16 @@ Hi! My name is Giovanni Cerlisio
 Junior Software Tester | Beginner Full Stack Developer 👨🏻‍💻 
 ----------------
 
-Dopo essermi diplomato in informatica e telecomunicazioni, ho iniziato subito a sviluppare siti web da autodidatta, poi ho seguito un corso di sviluppo back-end con Spring.
+Dopo essermi diplomato in informatica e telecomunicazioni, ho iniziato subito a sviluppare siti web da autodidatta, poi ho seguito un corso di sviluppo full-stack e automation testing.
 
-Attualmente svolgo la professione di Junior Software Tester.
+Attualmente svolgo la professione di Junior Software Tester dove mi occupo sia di test manuali che automatici.
+
+Nel tempo libero mi diletto ancora nel mondo dello sviluppo web a 360 gradi, attualmente sto cercando di imparare Angular come framework FE.
 
 * 🌍  I'm based in Naples | IT
 * 🖥️  See my portfolio at [giovannicerlisio.it](http://www.giovannicerlisio.it)
 * ✉️  You can contact me at [giovannicerlisio31@gmail.com](mailto:giovannicerlisio31@gmail.com)
-* 🧠  I'm learning Spring 🍃 - Angular and Software Testing
+* 🧠  I'm learning Angular and Software Testing
 
 Skills
 
