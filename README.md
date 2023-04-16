@@ -13,7 +13,7 @@ Nel tempo libero mi diletto ancora nel mondo dello sviluppo web a 360 gradi, att
 * 🌍  I'm based in Naples | IT
 * 🖥️  See my portfolio at [giovannicerlisio.it](http://www.giovannicerlisio.it)
 * ✉️  You can contact me at [giovannicerlisio31@gmail.com](mailto:giovannicerlisio31@gmail.com)
-* 🧠  I'm learning Angular and Software Testing
+* 🧠  I'm learning Angular | Typescript 
 
 Skills
 
@@ -26,6 +26,7 @@ Skills
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" width="36" height="36" alt="Selenium" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="Typescript" /></a>
   
 Socials
 
