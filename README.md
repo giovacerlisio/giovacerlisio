@@ -13,7 +13,7 @@ Nel tempo libero mi diletto ancora nel mondo dello sviluppo web a 360 gradi, att
 * 🌍  I'm based in Naples | IT
 * 🖥️  See my portfolio at [giovannicerlisio.it](http://www.giovannicerlisio.it)
 * ✉️  You can contact me at [giovannicerlisio31@gmail.com](mailto:giovannicerlisio31@gmail.com)
-* 🧠  I'm learning Angular | Typescript 
+* 🧠  I'm learning Angular | Typescript | Cypress
 
 Skills
 
