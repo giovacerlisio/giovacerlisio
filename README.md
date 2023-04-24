@@ -24,8 +24,3 @@ Skills
 Socials
 
 <p align="left"> <a href="https://www.github.com/giovacerlisio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/giovanni-cerlisio-109727227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cerlisiogiova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-Badges
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovacerlisio&show_icons=true&locale=en" alt="giovacerlisio" /></p>
-
-<a href="https://github.com/giovacerlisio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovacerlisio&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
