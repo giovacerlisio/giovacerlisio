@@ -1,7 +1,7 @@
 Hi! My name is Giovanni Cerlisio
 =========================================================================================================================================
 
-software test specialist during the work & bug designer in the free time
+software test specialist during the work & bug designer in the free time | Computer Science Student
 ----------------
 
 * 🌍  I'm based in Naples | IT
