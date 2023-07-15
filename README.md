@@ -1,7 +1,7 @@
 Hi! My name is Giovanni Cerlisio
 =========================================================================================================================================
 
-Software Test Specialist | Junior Full Stack Developer 👨🏻‍💻 
+software test specialist during the work & bug designer in the free time
 ----------------
 
 * 🌍  I'm based in Naples | IT
