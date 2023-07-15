@@ -1,13 +1,13 @@
 Hi! My name is Giovanni Cerlisio
 =========================================================================================================================================
 
-software test specialist during the work & bug designer in the free time | Computer Science Student
+Software Test Specialist | Computer Science Student
 ----------------
 
 * 🌍  I'm based in Naples | IT
 * 🖥️  See my portfolio at [giovannicerlisio.it](http://www.giovannicerlisio.it)
 * ✉️  You can contact me at [giovannicerlisio31@gmail.com](mailto:giovannicerlisio31@gmail.com)
-* 🧠  I'm learning Angular | Typescript | Cypress
+* 🧠  In the free time i develop some web application just for fun
 
 Skills
 
