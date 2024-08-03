@@ -1,7 +1,7 @@
 Hi! My name is Giovanni Cerlisio
 =========================================================================================================================================
 
-Software Test Specialist | Computer Science Student
+Software Test Specialist | Computer Engineering Student
 ----------------
 
 * 🌍  I'm based in Naples | IT
