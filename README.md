@@ -1,13 +1,13 @@
-Hi! My name is Giovanni Cerlisio
+Giovanni Cerlisio
 =========================================================================================================================================
 
-Software Test Specialist | Computer Engineering Student
+SDET & Quality Assurance Specialist | Computer Engineering Student
 ----------------
 
-* 🌍  I'm based in Naples | IT
-* 🖥️  See my portfolio at [giovannicerlisio.it](http://www.giovannicerlisio.it)
+* 🌍  I'm based in Southern Italy | IT
+* 🖥️  See my portfolio at /
 * ✉️  You can contact me at [giovannicerlisio31@gmail.com](mailto:giovannicerlisio31@gmail.com)
-* 🧠  In the free time i develop some web application just for fun
+* 🧠  In the free time i develop some stuff
 
 Skills
 
